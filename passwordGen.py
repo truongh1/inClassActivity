@@ -8,5 +8,4 @@ def passwordGen(num):
 
     print("".join(password))
     
-
-passwordGen(10)
+num = input("Enter number: ")
