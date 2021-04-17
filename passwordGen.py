@@ -1,0 +1,2 @@
+def passwordGen(num):
+    pass
