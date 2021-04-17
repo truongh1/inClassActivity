@@ -7,3 +7,7 @@ def calc(a,b):
     print(mul)
     div = a/b
     print(div)
+
+a = 25
+b = 5
+calc(a,b)
